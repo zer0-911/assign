@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 english
 =======
 indonesia
 >>>>>>> indonesia
+=======
+usa
+>>>>>>> usa
